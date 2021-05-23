@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hello!!! I am Anoushka Bose.
+
+### About me
+Give me an opportunity and I promise to give you my best!!!
+
+I have familiarized myself with the programming languages such as C, C++ and Python. I have also expanded my knowledge in MATLAB, Microsoft Power point and My SQL. In addition to this I have participated in KIIT International MUN to hone my communication and public speaking skills. I am also quite skilled at Data Structures, Algorithms and Web content writing.
+
+I intent to further develop my skills and to take a specialization course, and most importantly I never intend to stop growing.
+
+### Hobbies
+
+- Playing Chess
+- Writing articles
+- Coding
+
+
+
 
 <!--
 **elixir14082002/elixir14082002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
