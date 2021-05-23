@@ -13,6 +13,16 @@ I intent to further develop my skills and to take a specialization course, and m
 - Writing articles
 - Coding
 
+### Skills
+
+- C
+- C++
+- Python
+- My Sql
+- MATLAB
+- Microsoft Powerpoint
+- Data Structures
+
 
 
 
