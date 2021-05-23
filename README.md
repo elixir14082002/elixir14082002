@@ -22,6 +22,9 @@ I intent to further develop my skills and to take a specialization course, and m
 - MATLAB
 - Microsoft Powerpoint
 - Data Structures
+- Algorithm
+- Web Content Writing
+- Communication
 
 
 
