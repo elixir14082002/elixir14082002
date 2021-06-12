@@ -7,7 +7,8 @@ I have familiarized myself with the programming languages such as C, C++ and Pyt
 
 I intent to further develop my skills and to take a specialization course, and most importantly I never intend to stop growing.
 
-[a link]https://Profile.elixir14082002.repl.co
+Want to know more about me? Visit my Website:
+https://Profile.elixir14082002.repl.co
 
 ### My Skill Set:
 
