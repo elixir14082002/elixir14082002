@@ -3,27 +3,14 @@
 ### About me
 Give me an opportunity and I promise to give you my best!!!
 
-I have familiarized myself with the programming languages such as C, C++ and Python. I have also expanded my knowledge in MATLAB, Microsoft Power point and My SQL. In addition to this I have participated in KIIT International MUN to hone my communication and public speaking skills. I am also quite skilled at Data Structures, Algorithms and Web content writing. I enjoy HTML and CSS.
+I have familiarized myself with the programming languages such as C, C++ and Python. I have also expanded my knowledge in MATLAB, Microsoft Power point and My SQL. In addition to this I have participated in KIIT International MUN to hone my communication and public speaking skills. I am also quite skilled at Data Structures, Algorithms and Web content writing. I enjoy HTML, CSS, Bootstrap and Javascript.
 
 I intent to further develop my skills and to take a specialization course, and most importantly I never intend to stop growing.
 
 Want to know more about me? Visit my Website:
 https://Profile.elixir14082002.repl.co
 
-### My Skill Set:
 
-- C
-- C++
-- HTML
-- CSS
-- Python
-- My Sql
-- MATLAB
-- Microsoft Powerpoint
-- Data Structures
-- Algorithm
-- Web Content Writing
-- Communication
 
 
 
